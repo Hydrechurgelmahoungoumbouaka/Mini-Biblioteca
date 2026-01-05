@@ -1,4 +1,4 @@
-# Mini-Biblioteca
+# Mini-Biblioteca UFES
 
 A  organização  de  uma  biblioteca  é  uma  tarefa  complexa,  que  envolve  a  catalogação  de  livros  e 
 artigos, a organização por seções e a busca por títulos, autores e seções. Para facilitar essa tarefa, é 
