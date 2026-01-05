@@ -1,0 +1,13 @@
+Arquivos
+	saida.txt=10
+Valgrind
+	desconto=0.4
+Validações
+	main=3.50
+	completo=0.0
+	livro=3.00
+    secao=3.50
+    
+
+LimiteTempo=15
+MainAgrupada

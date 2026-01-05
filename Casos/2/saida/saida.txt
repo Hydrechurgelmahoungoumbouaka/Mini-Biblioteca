@@ -1,0 +1,51 @@
+- - - LISTA DE TODOS OS ARTIGOS DA BIBLIOTECA - - -
+- - - Artigo - - -
+Titulo: O IMPACTO DA TECNOLOGIA NA EDUCACAO
+Autor: CARLOS MENDES
+Jornal: REVISTA CIENTIFICA BRASILEIRA
+Ano: 2015
+Num. Paginas: 12
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A INFLUENCIA DAS REDES SOCIAIS NO COMPORTAMENTO HUMANO
+Autor: MARIA FERNANDA ALMEIDA
+Jornal: JORNAL DE PSICOLOGIA SOCIAL
+Ano: 2018
+Num. Paginas: 8
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: O FUTURO DA INTELIGENCIA ARTIFICIAL
+Autor: JORGE SILVEIRA
+Jornal: REVISTA DE COMPUTACAO AVANCADA
+Ano: 2021
+Num. Paginas: 15
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A EVOLUCAO DA MEDICINA NO SECULO XXI
+Autor: FERNANDA CASTRO
+Jornal: JORNAL DE SAUDE E CIENCIA
+Ano: 2016
+Num. Paginas: 10
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A CRISE CLIMATICA E SUAS IMPLICACOES GLOBAIS
+Autor: RICARDO LIMA
+Jornal: REVISTA DE MEIO AMBIENTE
+Ano: 2020
+Num. Paginas: 9
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: O USO DE MACHINE LEARNING NA DIAGNOSTICO MEDICO
+Autor: PATRICIA MELO
+Jornal: REVISTA DE INTELIGENCIA COMPUTACIONAL
+Ano: 2019
+Num. Paginas: 14
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A IMPORTANCIA DA LITERATURA INFANTIL NA EDUCACAO
+Autor: GUSTAVO FONSECA
+Jornal: JORNAL PEDAGOGICO
+Ano: 2014
+Num. Paginas: 7
+- - - - - - - - -
+

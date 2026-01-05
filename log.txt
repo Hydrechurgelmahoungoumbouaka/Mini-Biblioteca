@@ -1,0 +1,290 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: Aluno
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA Aluno:
+ - Diretório Resultados/Aluno criado com sucesso!
+ - Diretório Resultados/Aluno/main criado com sucesso!
+ - Diretório Resultados/Aluno/completo criado com sucesso!
+ - Diretório Resultados/Aluno/livro criado com sucesso!
+ - Diretório Resultados/Aluno/secao criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/Aluno/livro.c' encontrado!
+ - Arquivo esperado 'Respostas/Aluno/livro.h' encontrado!
+ - Arquivo esperado 'Respostas/Aluno/main.c' encontrado!
+ - Arquivo esperado 'Respostas/Aluno/secao.c' encontrado!
+ - Arquivo esperado 'Respostas/Aluno/secao.h' encontrado!
+ - Arquivos esperados enviados: Ok!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/Aluno/main
+ - Copiando os Includes/livro.h Includes/secao.h do professor para a pasta Resultados/Aluno/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Aluno/main
+ - Removendo o main.o do professor da pasta Resultados/Aluno/main
+ - Copiando o Respostas/Aluno/main.c do aluno para a pasta Resultados/Aluno/main
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/Aluno/completo
+ - Copiando os Respostas/Aluno/livro.c do aluno para a pasta Resultados/Aluno/completo
+ - Copiando os Respostas/Aluno/livro.h do aluno para a pasta Resultados/Aluno/completo
+ - Copiando os Respostas/Aluno/main.c do aluno para a pasta Resultados/Aluno/completo
+ - Copiando os Respostas/Aluno/secao.c do aluno para a pasta Resultados/Aluno/completo
+ - Copiando os Respostas/Aluno/secao.h do aluno para a pasta Resultados/Aluno/completo
+ - Pasta livro:
+ - Copiando os Casos de teste para a pasta Resultados/Aluno/livro
+ - Copiando os Includes/livro.h Includes/secao.h do professor para a pasta Resultados/Aluno/livro
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Aluno/livro
+ - Removendo o livro.o do professor da pasta Resultados/Aluno/livro
+ - Copiando o Respostas/Aluno/livro.c do aluno para a pasta Resultados/Aluno/livro
+ - Pasta secao:
+ - Copiando os Casos de teste para a pasta Resultados/Aluno/secao
+ - Copiando os Includes/livro.h Includes/secao.h do professor para a pasta Resultados/Aluno/secao
+ - Copiando os Includes/*.o do professor para a pasta Resultados/Aluno/secao
+ - Removendo o secao.o do professor da pasta Resultados/Aluno/secao
+ - Copiando o Respostas/Aluno/secao.c do aluno para a pasta Resultados/Aluno/secao
+ - Copiando Arquivos Extras do Aluno:
+ - Copiando Respostas/Aluno/artigo.c para Resultados/Aluno/main
+ - Copiando Respostas/Aluno/artigo.c para Resultados/Aluno/completo
+ - Copiando Respostas/Aluno/artigo.h para Resultados/Aluno/main
+ - Copiando Respostas/Aluno/artigo.h para Resultados/Aluno/completo
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Compilação dos arquivos do aluno na pasta main ok!
+ - Arquivo de output gerado: Resultados/Aluno/main/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta completo ok!
+ - Arquivo de output gerado: Resultados/Aluno/completo/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta livro ok!
+ - Arquivo de output gerado: Resultados/Aluno/livro/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta secao ok!
+ - Arquivo de output gerado: Resultados/Aluno/secao/result_compilation.txt
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Aluno/main/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Aluno/completo/result_linking.txt
+ - Pasta livro:
+ - Gerando o binário prog linkando com o(s) arquivo(s) livro/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Aluno/livro/result_linking.txt
+ - Pasta secao:
+ - Gerando o binário prog linkando com o(s) arquivo(s) secao/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/Aluno/secao/result_linking.txt
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta main / Caso 1:
+ - Arquivo de output gerado: Resultados/Aluno/main/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 49, frees: 49, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta main / Caso 2:
+ - Arquivo de output gerado: Resultados/Aluno/main/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 18, frees: 18, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta main / Caso 3:
+ - Arquivo de output gerado: Resultados/Aluno/main/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 63, frees: 63, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta main / Caso 4:
+ - Arquivo de output gerado: Resultados/Aluno/main/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 63, frees: 63, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta main / Caso 5:
+ - Arquivo de output gerado: Resultados/Aluno/main/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 71, frees: 71, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta main / Caso 6:
+ - Arquivo de output gerado: Resultados/Aluno/main/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 71, frees: 71, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta main / Caso 7:
+ - Arquivo de output gerado: Resultados/Aluno/main/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 4, frees: 4, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta main / Caso 8:
+ - Arquivo de output gerado: Resultados/Aluno/main/Casos/8/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 71, frees: 71, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta main (máximo 3.50) - 80.00 de 80 - 100.00% de 3.50: 3.50.
+ -----
+ - Pasta completo / Caso 1:
+ - Arquivo de output gerado: Resultados/Aluno/completo/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 18, frees: 18, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta completo / Caso 2:
+ - Arquivo de output gerado: Resultados/Aluno/completo/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta completo / Caso 3:
+ - Arquivo de output gerado: Resultados/Aluno/completo/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 27, frees: 27, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta completo / Caso 4:
+ - Arquivo de output gerado: Resultados/Aluno/completo/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 27, frees: 27, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta completo / Caso 5:
+ - Arquivo de output gerado: Resultados/Aluno/completo/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 28, frees: 28, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta completo / Caso 6:
+ - Arquivo de output gerado: Resultados/Aluno/completo/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 28, frees: 28, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta completo / Caso 7:
+ - Arquivo de output gerado: Resultados/Aluno/completo/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 6, frees: 6, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta completo / Caso 8:
+ - Arquivo de output gerado: Resultados/Aluno/completo/Casos/8/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 28, frees: 28, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta completo (máximo 0.0) - 80.00 de 80 - 100.00% de 0.0: 0.
+ -----
+ - Pasta livro / Caso 1:
+ - Arquivo de output gerado: Resultados/Aluno/livro/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 22, frees: 22, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta livro / Caso 2:
+ - Arquivo de output gerado: Resultados/Aluno/livro/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 18, frees: 18, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta livro / Caso 3:
+ - Arquivo de output gerado: Resultados/Aluno/livro/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 36, frees: 36, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta livro / Caso 4:
+ - Arquivo de output gerado: Resultados/Aluno/livro/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 36, frees: 36, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta livro / Caso 5:
+ - Arquivo de output gerado: Resultados/Aluno/livro/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 38, frees: 38, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta livro / Caso 6:
+ - Arquivo de output gerado: Resultados/Aluno/livro/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 38, frees: 38, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta livro / Caso 7:
+ - Arquivo de output gerado: Resultados/Aluno/livro/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 4, frees: 4, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta livro / Caso 8:
+ - Arquivo de output gerado: Resultados/Aluno/livro/Casos/8/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 38, frees: 38, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta livro (máximo 3.00) - 80.00 de 80 - 100.00% de 3.00: 3.00.
+ -----
+ - Pasta secao / Caso 1:
+ - Arquivo de output gerado: Resultados/Aluno/secao/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 45, frees: 45, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta secao / Caso 2:
+ - Arquivo de output gerado: Resultados/Aluno/secao/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 15, frees: 15, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta secao / Caso 3:
+ - Arquivo de output gerado: Resultados/Aluno/secao/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 54, frees: 54, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta secao / Caso 4:
+ - Arquivo de output gerado: Resultados/Aluno/secao/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 54, frees: 54, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta secao / Caso 5:
+ - Arquivo de output gerado: Resultados/Aluno/secao/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 61, frees: 61, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta secao / Caso 6:
+ - Arquivo de output gerado: Resultados/Aluno/secao/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 61, frees: 61, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta secao / Caso 7:
+ - Arquivo de output gerado: Resultados/Aluno/secao/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 6, frees: 6, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta secao / Caso 8:
+ - Arquivo de output gerado: Resultados/Aluno/secao/Casos/8/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 61, frees: 61, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta secao (máximo 3.50) - 80.00 de 80 - 100.00% de 3.50: 3.50.
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: Aluno
+ - Arquivos Esperados Corretos: 5 de 5
+ - Pastas Compiladas Corretamente: 4 de 4 
+ - Pastas Linkadas Corretamente: 4 de 4
+ - Teste main
+ - Resultados corretos: 8 de 8
+ - Valgrinds corretos: 8 de 8
+ - Nota de Aluno para o teste main: 3.50
+ - Teste completo
+ - Resultados corretos: 8 de 8
+ - Valgrinds corretos: 8 de 8
+ - Nota de Aluno para o teste completo: 0
+ - Teste livro
+ - Resultados corretos: 8 de 8
+ - Valgrinds corretos: 8 de 8
+ - Nota de Aluno para o teste livro: 3.00
+ - Teste secao
+ - Resultados corretos: 8 de 8
+ - Valgrinds corretos: 8 de 8
+ - Nota de Aluno para o teste secao: 3.50
+ - Nota de Aluno: 0+(3.00)+(3.50)+(3.50)+(0)
+ - Nota de Aluno: 10.00
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+

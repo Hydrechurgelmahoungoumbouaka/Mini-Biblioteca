@@ -1,0 +1,29 @@
+- - - LISTA DE TODOS OS ITENS DE UM ANO - - -
+- Ano: 2018
+- - - Livro - - -
+Titulo: O PODER DA MENTE
+Autor: JOSE CARVALHO
+Editora: MENTE LIVRE
+Ano: 2018
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O MISTERO DA CASA AMARELA
+Autor: MARIA FERNANDA SOUZA
+Editora: SUSPENSE BRASIL
+Ano: 2018
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A INFLUENCIA DAS REDES SOCIAIS NO COMPORTAMENTO HUMANO
+Autor: MARIA FERNANDA ALMEIDA
+Jornal: JORNAL DE PSICOLOGIA SOCIAL
+Ano: 2018
+Num. Paginas: 8
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: O FUTURO DA INTELIGENCIA ARTIFICIAL
+Autor: JORGE SILVEIRA
+Jornal: REVISTA DE COMPUTACAO AVANCADA
+Ano: 2018
+Num. Paginas: 15
+- - - - - - - - -
+

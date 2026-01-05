@@ -1,0 +1,153 @@
+- - - LISTA DE TODOS OS ITENS DE UM ANO - - -
+- Ano: 2019
+- - - Livro - - -
+Titulo: A ESPADA DO REI
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2019
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: O USO DE MACHINE LEARNING NA DIAGNOSTICO MEDICO
+Autor: PATRICIA MELO
+Jornal: REVISTA DE INTELIGENCIA COMPUTACIONAL
+Ano: 2019
+Num. Paginas: 14
+- - - - - - - - -
+
+- - - LISTA DE TODOS OS ITENS DE UM AUTOR - - -
+Nome do autor: BERNARD CORNWELL
+- - - Livro - - -
+Titulo: O ULTIMO REINO
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2004
+- - - - - - - - -
+- - - Livro - - -
+Titulo: MORTE DOS REIS
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2009
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O CAVALEIRO DA MORTE
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2005
+- - - - - - - - -
+- - - Livro - - -
+Titulo: A ESPADA DO REI
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2019
+- - - - - - - - -
+
+- - - LISTA DE TODOS OS ITENS DA BIBLIOTECA - - -
+- - - Livro - - -
+Titulo: O ULTIMO REINO
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2004
+- - - - - - - - -
+- - - Livro - - -
+Titulo: A QUEDA DOS GIGANTES
+Autor: KEN FOLLETT
+Editora: EDITORA HISTORICA
+Ano: 2010
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O PODER DA MENTE
+Autor: JOSE CARVALHO
+Editora: MENTE LIVRE
+Ano: 2018
+- - - - - - - - -
+- - - Livro - - -
+Titulo: A GUERRA DOS MUNDOS
+Autor: H. G. WELLS
+Editora: CIENCIA FANTASTICA
+Ano: 1898
+- - - - - - - - -
+- - - Livro - - -
+Titulo: MORTE DOS REIS
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2009
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O MISTERO DA CASA AMARELA
+Autor: MARIA FERNANDA SOUZA
+Editora: SUSPENSE BRASIL
+Ano: 2018
+- - - - - - - - -
+- - - Livro - - -
+Titulo: A INVENCAO DOS SONHOS
+Autor: GUSTAVO RAMOS
+Editora: MUNDO EDITORIAL
+Ano: 2016
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O CAVALEIRO DA MORTE
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2005
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O SEGREDO DOS ANTIGOS
+Autor: ANA BEATRIZ OLIVEIRA
+Editora: HISTORIA PERDIDA
+Ano: 2021
+- - - - - - - - -
+- - - Livro - - -
+Titulo: A ESPADA DO REI
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2019
+- - - - - - - - -
+- - - Livro - - -
+Titulo: A ESTRADA SOMBRIA
+Autor: RICARDO NUNES
+Editora: MISTERY BOOKS
+Ano: 2017
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: O IMPACTO DA TECNOLOGIA NA EDUCACAO
+Autor: CARLOS MENDES
+Jornal: REVISTA CIENTIFICA BRASILEIRA
+Ano: 2015
+Num. Paginas: 12
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A INFLUENCIA DAS REDES SOCIAIS NO COMPORTAMENTO HUMANO
+Autor: MARIA FERNANDA ALMEIDA
+Jornal: JORNAL DE PSICOLOGIA SOCIAL
+Ano: 2018
+Num. Paginas: 8
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: O FUTURO DA INTELIGENCIA ARTIFICIAL
+Autor: JORGE SILVEIRA
+Jornal: REVISTA DE COMPUTACAO AVANCADA
+Ano: 2018
+Num. Paginas: 15
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A EVOLUCAO DA MEDICINA NO SECULO XXI
+Autor: FERNANDA CASTRO
+Jornal: JORNAL DE SAUDE E CIENCIA
+Ano: 2016
+Num. Paginas: 10
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A CRISE CLIMATICA E SUAS IMPLICACOES GLOBAIS
+Autor: RICARDO LIMA
+Jornal: REVISTA DE MEIO AMBIENTE
+Ano: 2020
+Num. Paginas: 9
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: O USO DE MACHINE LEARNING NA DIAGNOSTICO MEDICO
+Autor: PATRICIA MELO
+Jornal: REVISTA DE INTELIGENCIA COMPUTACIONAL
+Ano: 2019
+Num. Paginas: 14
+- - - - - - - - -
+

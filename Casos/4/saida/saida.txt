@@ -1,0 +1,161 @@
+- - - LISTA DE TODOS OS ITENS DA BIBLIOTECA - - -
+- - - Livro - - -
+Titulo: A SOMBRA DO PASSADO
+Autor: CARLOS MENDES
+Editora: EDITORA LUZ
+Ano: 2015
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O SEGREDO DOS VENTOS
+Autor: MARIA FERNANDA ALMEIDA
+Editora: NOVA ERA
+Ano: 2008
+- - - - - - - - -
+- - - Livro - - -
+Titulo: CAMINHOS PERDIDOS
+Autor: JORGE SILVEIRA
+Editora: PAGINA NOVA 
+Ano: 1998
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O ENIGMA DO TEMPO
+Autor: FERNANDA CASTRO
+Editora: EDITORA AURORA
+Ano: 2020
+- - - - - - - - -
+- - - Livro - - -
+Titulo: A GUERRA DAS PALAVRAS
+Autor: RICARDO LIMA
+Editora: VERBO & CIA
+Ano: 2012
+- - - - - - - - -
+- - - Livro - - -
+Titulo: LAGRIMAS DE OUTONO
+Autor: PATRICIA MELO
+Editora: HORIZONTE LIVROS
+Ano: 2017
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O MISTERIO DA CASA AZUL
+Autor: GUSTAVO FONSECA
+Editora: EDITORA SAPIENS
+Ano: 2013
+- - - - - - - - -
+- - - Livro - - -
+Titulo: NOITE SEM FIM
+Autor: CAMILA SOUZA
+Editora: INFINITO EDITORA
+Ano: 2005
+- - - - - - - - -
+- - - Livro - - -
+Titulo: ALEM DO HORIZONTE  
+Autor: RAFAEL NUNES  
+Editora: MUNDO LIVRO  
+Ano: 2021
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: O IMPACTO DA TECNOLOGIA NA EDUCACAO
+Autor: CARLOS MENDES
+Jornal: REVISTA CIENTIFICA BRASILEIRA
+Ano: 2015
+Num. Paginas: 12
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A INFLUENCIA DAS REDES SOCIAIS NO COMPORTAMENTO HUMANO
+Autor: MARIA FERNANDA ALMEIDA
+Jornal: JORNAL DE PSICOLOGIA SOCIAL
+Ano: 2018
+Num. Paginas: 8
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: O FUTURO DA INTELIGENCIA ARTIFICIAL
+Autor: JORGE SILVEIRA
+Jornal: REVISTA DE COMPUTACAO AVANCADA
+Ano: 2021
+Num. Paginas: 15
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A EVOLUCAO DA MEDICINA NO SECULO XXI
+Autor: FERNANDA CASTRO
+Jornal: JORNAL DE SAUDE E CIENCIA
+Ano: 2016
+Num. Paginas: 10
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A CRISE CLIMATICA E SUAS IMPLICACOES GLOBAIS
+Autor: RICARDO LIMA
+Jornal: REVISTA DE MEIO AMBIENTE
+Ano: 2020
+Num. Paginas: 9
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: O USO DE MACHINE LEARNING NA DIAGNOSTICO MEDICO
+Autor: PATRICIA MELO
+Jornal: REVISTA DE INTELIGENCIA COMPUTACIONAL
+Ano: 2019
+Num. Paginas: 14
+- - - - - - - - -
+- - - Artigo - - -
+Titulo: A IMPORTANCIA DA LITERATURA INFANTIL NA EDUCACAO
+Autor: GUSTAVO FONSECA
+Jornal: JORNAL PEDAGOGICO
+Ano: 2014
+Num. Paginas: 7
+- - - - - - - - -
+
+- - - LISTA DE TODOS OS LIVROS DA BIBLIOTECA - - -
+- - - Livro - - -
+Titulo: A SOMBRA DO PASSADO
+Autor: CARLOS MENDES
+Editora: EDITORA LUZ
+Ano: 2015
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O SEGREDO DOS VENTOS
+Autor: MARIA FERNANDA ALMEIDA
+Editora: NOVA ERA
+Ano: 2008
+- - - - - - - - -
+- - - Livro - - -
+Titulo: CAMINHOS PERDIDOS
+Autor: JORGE SILVEIRA
+Editora: PAGINA NOVA 
+Ano: 1998
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O ENIGMA DO TEMPO
+Autor: FERNANDA CASTRO
+Editora: EDITORA AURORA
+Ano: 2020
+- - - - - - - - -
+- - - Livro - - -
+Titulo: A GUERRA DAS PALAVRAS
+Autor: RICARDO LIMA
+Editora: VERBO & CIA
+Ano: 2012
+- - - - - - - - -
+- - - Livro - - -
+Titulo: LAGRIMAS DE OUTONO
+Autor: PATRICIA MELO
+Editora: HORIZONTE LIVROS
+Ano: 2017
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O MISTERIO DA CASA AZUL
+Autor: GUSTAVO FONSECA
+Editora: EDITORA SAPIENS
+Ano: 2013
+- - - - - - - - -
+- - - Livro - - -
+Titulo: NOITE SEM FIM
+Autor: CAMILA SOUZA
+Editora: INFINITO EDITORA
+Ano: 2005
+- - - - - - - - -
+- - - Livro - - -
+Titulo: ALEM DO HORIZONTE  
+Autor: RAFAEL NUNES  
+Editora: MUNDO LIVRO  
+Ano: 2021
+- - - - - - - - -
+

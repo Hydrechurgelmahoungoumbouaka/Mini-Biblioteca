@@ -1,0 +1,27 @@
+- - - LISTA DE TODOS OS ITENS DE UM AUTOR - - -
+Nome do autor: BERNARD CORNWELL
+- - - Livro - - -
+Titulo: O ULTIMO REINO
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2004
+- - - - - - - - -
+- - - Livro - - -
+Titulo: MORTE DOS REIS
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2009
+- - - - - - - - -
+- - - Livro - - -
+Titulo: O CAVALEIRO DA MORTE
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2005
+- - - - - - - - -
+- - - Livro - - -
+Titulo: A ESPADA DO REI
+Autor: BERNARD CORNWELL
+Editora: NOVO TEMPO
+Ano: 2019
+- - - - - - - - -
+
